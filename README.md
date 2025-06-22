@@ -1,7 +1,6 @@
-# 💫 About Me
+# 👋 Hi there! I'm **Abdul Hanan!**
 
-## 👋 Hi there! I'm **Abdul Hanan**, a full stack developer with a focus on fintech, SaaS, and scalable systems.
-
+## 💫 About Me
 🔭 I’m currently working on  
 Fintech platforms involving virtual cards, KYC, and PSP integrations using Laravel & Vue.js.
 
