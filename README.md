@@ -5,7 +5,7 @@
 ## 💫 About Me
 
 🔭 **Currently working on**  
-A Fintech **Finance Wellness** app that helping users plan retirement, manage spending, and build long-term financial health, built on React & Python with secure financial data handling.
+A **Unified Communication Ecosystem** for businesses, providing AI-based audio, video, and messaging, along with data interchange and control of IoT devices
 
 🤝 **Looking to collaborate on**  
 Full stack SaaS or Fintech applications where security, automation, AI integration, and performance matter.
